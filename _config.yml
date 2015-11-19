@@ -1,0 +1,67 @@
+# Jekyll configuration
+
+name: digitalr00ts
+description: digitalr00ts
+
+# Url is currently only used only for the RSS feed in feed.xml
+# url: http://www.digitalr00ts.com
+url: http://localhost:4000
+
+# For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
+baseurl: ''
+
+social:
+  twitter: digitalr00ts
+  github: digitalr00ts
+  stackoverflow:
+  linkedin:
+  instagram:
+  lastfm:
+  rss: feed.xml
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key:
+# Yandex metrika (https://metrica.yandex.com/) leave blanc to ignore or put true to use
+yandex_metrika:
+
+
+# Set this to your disqus shortname to enable comments. Note that the 'comments'
+# setting below must also be true. Individual posts can override 'comments' to
+# disable on a post-by-post basis
+# disqus: digitalr00ts
+comments: false
+
+permalink: /:year/:month/:title
+paginate: 3
+
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+
+exclude: ['README.md', 'LICENSE', 'Gemfile', 'Rakefile']
+
+sass:
+  style: compressed
+
+gems:
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jekyll-feed
+
+# Rakefile settings
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+  editor: atom-beta
+git:
+    branch: gh-pages
+# transfer:
+#  command: rsync
+#  settings: -av
+#  source: _site/
+#  destination: ~/Git/username.github.com/
