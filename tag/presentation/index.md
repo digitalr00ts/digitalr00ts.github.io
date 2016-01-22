@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Presentation Tag"
+tag: presentation
 ---
 <h1>Articles by tag :{{ page.tag }}</h1>
 <div>
