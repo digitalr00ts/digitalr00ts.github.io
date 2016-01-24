@@ -14,6 +14,6 @@ I will post links to slides an other resources here.
 This page will be updated shortly after SCaLE 14x.
 
 
-- [Google Presentation](https://docs.google.com/presentation/d/1LMLsPMKP0p3wZXr8sb20mtFVlfMy17qsvSPKvFeN8c0/edit?usp=sharing)
+- [Google Presentation](https://docs.google.com/presentation/d/1tdjpQ4-ezdyihRLQM0rPZAox98Eimow-ZGXtkOyvyR4/edit?usp=sharing)
 - SlideShare - comming soon
 - Video - as soon as available
