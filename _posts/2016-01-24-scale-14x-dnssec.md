@@ -7,7 +7,7 @@ tags: presentation
 description: "Carlos' presentation on DNSSEC: Solving A Decades-Old Vulnerability"
 toc: false
 ---
-Carlos' [DNSSEC](https://www.socallinuxexpo.org/scale/14x/presentations/dnssec) talk at [SCaLE](https://www.socallinuxexpo.org/).\\ @ 11:30AM in RM103
+Carlos' [DNSSEC](https://www.socallinuxexpo.org/scale/14x/presentations/dnssec) talk at [SCaLE](https://www.socallinuxexpo.org/). January 24, 2016 @ 11:30AM in RM103
 
 I will post links to slides an other resources here.
 
