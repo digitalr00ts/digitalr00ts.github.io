@@ -20,6 +20,7 @@ This page will be updated shortly after SCaLE 14x.
 
 ## Resources
 The following links assisted me with understanding some of the finer detials of DNSSEC and with articulating concepts.
+
 - Mike Lucas - DNSSEC in 50 Minutes
   - [part 1](https://www.youtube.com/watch?v=lY6HgZmAfqc)
   - [part 2](https://www.youtube.com/watch?v=Hm93GhenqXo)
@@ -30,8 +31,9 @@ The following links assisted me with understanding some of the finer detials of 
 - [Internet Society](http://www.internetsociety.org/deploy360/dnssec/)
 - [Verisign Labs with DANE](http://www.verisign.com/en_US/innovation/verisign-labs/dane-protocol/index.xhtml)
 - [An Illustrated Guide to the Kaminsky DNS Vulnerability](http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html)
--
-References
+
+###References
+
 - [Domain Name System (DNS) Parameters](http://www.iana.org/assignments/dns-parameters/dns-parameters.xhtml)
 - [DNS Glossary](http://www.menandmice.com/support-training/support-center/knowledgehub/dns-glossary/)
 - [DNSSEC RFCs](https://www.icann.org/resources/pages/standards-2012-02-25-en)
