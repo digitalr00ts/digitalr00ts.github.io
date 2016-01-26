@@ -7,16 +7,17 @@ tags: presentation
 description: "Carlos' presentation on DNSSEC: Solving A Decades-Old Vulnerability"
 toc: false
 ---
+## Abstract
+
 Carlos' [DNSSEC](https://www.socallinuxexpo.org/scale/14x/presentations/dnssec) talk at [SCaLE](https://www.socallinuxexpo.org/). January 24, 2016 @ 11:30AM in RM103
 
-I will post links to slides an other resources here.
+DNS (Domain Name System) is an integral part of the Internet, unfortunately it is insecure. DNSSEC is a major upgrade to the security of the Internet. It provides us with authentication of DNS data, data integrity, and authenticated denial of existence. “DNSSec is an absolute requirement if we want to . . . use the Internet for anything non-trivial,” Cricket Liu. I will give an overview of how DNS works and why it is vulnerable, then how DNSSEC addresses these issues. I will discuss the challenges of DNSSEC deployment, but also the additional possibilities it provides, such as DANE.
 
-This page will be updated shortly after SCaLE 14x.
+## Links
 
-
-- [Google Presentation](https://docs.google.com/presentation/d/1tdjpQ4-ezdyihRLQM0rPZAox98Eimow-ZGXtkOyvyR4/edit?usp=sharing)
+- [Google Presentation](https://docs.google.com/presentation/d/1KBHVeMywWarpe29X_gFqST_kCrWQDDfAbqfv5r_V6WI/edit?usp=sharing)
 - SlideShare - comming soon
-- Video - as soon as available
+- Video - [YouTube](https://youtu.be/99NLF2cfLvo?t=7m22s)
 
 ## Resources
 The following links assisted me with understanding some of the finer detials of DNSSEC and with articulating concepts.
