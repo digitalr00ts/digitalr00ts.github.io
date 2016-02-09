@@ -17,6 +17,7 @@ DNS (Domain Name System) is an integral part of the Internet, unfortunately it i
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/99NLF2cfLvo" frameborder="0" allowfullscreen></iframe>
 
+
 - [Google Presentation](https://docs.google.com/presentation/d/1KBHVeMywWarpe29X_gFqST_kCrWQDDfAbqfv5r_V6WI/edit?usp=sharing)
 - SlideShare - comming soon
 
