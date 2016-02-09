@@ -13,11 +13,12 @@ Carlos' [DNSSEC](https://www.socallinuxexpo.org/scale/14x/presentations/dnssec) 
 
 DNS (Domain Name System) is an integral part of the Internet, unfortunately it is insecure. DNSSEC is a major upgrade to the security of the Internet. It provides us with authentication of DNS data, data integrity, and authenticated denial of existence. “DNSSec is an absolute requirement if we want to . . . use the Internet for anything non-trivial,” Cricket Liu. I will give an overview of how DNS works and why it is vulnerable, then how DNSSEC addresses these issues. I will discuss the challenges of DNSSEC deployment, but also the additional possibilities it provides, such as DANE.
 
-## Links
+## Presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/99NLF2cfLvo" frameborder="0" allowfullscreen></iframe>
 
 - [Google Presentation](https://docs.google.com/presentation/d/1KBHVeMywWarpe29X_gFqST_kCrWQDDfAbqfv5r_V6WI/edit?usp=sharing)
 - SlideShare - comming soon
-- Video - [YouTube](https://youtu.be/99NLF2cfLvo?t=7m22s)
 
 ## Resources
 The following links assisted me with understanding some of the finer detials of DNSSEC and with articulating concepts.
